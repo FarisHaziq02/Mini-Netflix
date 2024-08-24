@@ -1,2 +1,2 @@
 # Mini-Netflix
-This is my mini project to create netflix using only html
+This is my mini project to create netflix landing page using only html
